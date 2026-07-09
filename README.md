@@ -1,3 +1,7 @@
+# Budget Pro
+
+![App Screenshot](./public/app-screenshot.png)
+
 ## Project Setup
 
 Before running the full application, developers need to set up the environment variables for both the frontend (root) and the backend (`server/`).
